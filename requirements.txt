@@ -9,4 +9,3 @@ torch
 torchaudio
 torchvision
 webcolors
-pygraphviz
